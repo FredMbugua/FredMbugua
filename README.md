@@ -6,7 +6,7 @@
 
 
 
-## Hi there :wave: :grin:
+## Hi there :wave: :grin: I am Fredrick Maina Mbugua
 #### I'm a tech enthusiast who's into Software development and Computer Networking
 #### ALX Software Engineering Student
 #### Bachelor of Business and Information Technology Graduate
